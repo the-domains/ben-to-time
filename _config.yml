@@ -2,6 +2,7 @@ name: 'Ben-To Time!'
 favicon: null
 layout_spectrum: 0.5127371603157371
 typography_spectrum: 0.5015747246798128
+title: 'Ben-To Time!'
 cta:
   domain: null
   bucket: null
